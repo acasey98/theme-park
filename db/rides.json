@@ -1,0 +1,147 @@
+{
+    "rides": [
+        {
+            "id": "ride1",
+            "name": "Space Mountain",
+            "duration": 120,
+            "type": "coaster",
+            "heightReq": 50,
+            "intensity": "high",
+            "ridersPerTurn": 12,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 45,
+            "bodyCount": 0,
+            "lastFatality": "1/01/1901"
+        },
+
+        {
+            "id": "ride2",
+            "name": "Teacups",
+            "duration": 180,
+            "type": "kiddie",
+            "heightReq": 0,
+            "intensity": "low",
+            "ridersPerTurn": 50,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 15,
+            "bodyCount": 1000,
+            "lastFatality": "4/01/2019"
+        },
+
+        {
+            "id": "ride3",
+            "name": "Rockin Rollercoaster",
+            "duration": 220,
+            "type": "coaster",
+            "heightReq": 56,
+            "intensity": "extreme",
+            "ridersPerTurn": 8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 80,
+            "bodyCount": 7,
+            "lastFatality": "4/28/1977"
+        },
+        
+        {
+            "id": "ride4",
+            "name": "Tower of Terror",
+            "duration": 45,
+            "type": "elevator",
+            "heightReq": 52,
+            "intensity": "extreme",
+            "ridersPerTurn": 12,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": false,
+            "waitTime": 35,
+            "bodyCount": 12,
+            "lastFatality": "9/31/1992"
+        },
+        {
+            "id": "ride5",
+            "name": "Hurricane",
+            "duration": 20,
+            "type": "waterslide",
+            "heightReq": 48,
+            "intensity": "medium",
+            "ridersPerTurn": 4,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 40,
+            "bodyCount": 2,
+            "lastFatality": "11/11/2011"
+        },
+        {
+            "id": "ride6",
+            "name": "It's a Small World",
+            "duration": 900,
+            "type": "horror",
+            "heightReq": 0,
+            "intensity": "none",
+            "ridersPerTurn": 8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 2,
+            "bodyCount": 7.1e8,
+            "lastFatality": "4/28/1977"
+        },
+        {
+            "id": "ride7",
+            "name": "Shrek 4D",
+            "duration": 1224,
+            "type": "show",
+            "heightReq": 0,
+            "intensity": "low",
+            "ridersPerTurn": 135,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 36,
+            "bodyCount": 4,
+            "lastFatality": "9/19/2003"
+        },
+        {
+            "id": "ride8",
+            "name": "Terminator 2",
+            "duration": 420,
+            "type": "show",
+            "heightReq": 0,
+            "intensity": "medium",
+            "ridersPerTurn": 60,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 24,
+            "bodyCount": 8,
+            "lastFatality": "7/03/1991"
+        },
+        {
+            "id": "ride9",
+            "name": "Men in Black",
+            "duration": 720,
+            "type": "shooting gallery",
+            "heightReq": 42,
+            "intensity": "low",
+            "ridersPerTurn": 8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": false,
+            "waitTime": 44,
+            "bodyCount": 187,
+            "lastFatality": "2/25/2017"
+        },
+        {
+            "id": "ride10",
+            "name": "Splash Mountain",
+            "duration": 150,
+            "type": "log flume",
+            "heightReq": 52,
+            "intensity": "medium",
+            "ridersPerTurn": 10,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0iN_DrlsVodTcste-aGoohvzS6nUxqRILzkgT49lzJvGt0QR5g",
+            "isOperating": true,
+            "waitTime": 115,
+            "bodyCount": 70,
+            "lastFatality": "1/18/1994"
+        }
+    ]
+}
